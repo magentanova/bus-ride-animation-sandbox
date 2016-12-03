@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/justinrichards/Documents/TIY-FEE/messingAround/cool/src/scripts/store.js: Unexpected token (17:2) while parsing file: /Users/justinrichards/Documents/TIY-FEE/messingAround/cool/src/scripts/store.js");
